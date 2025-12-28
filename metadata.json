@@ -1,0 +1,5 @@
+{
+  "name": "Student Rating Dashboard",
+  "description": "A modern web application for tracking student performance, calculating ratings, and visualizing grades with interactive charts and animations.",
+  "requestFramePermissions": []
+}
